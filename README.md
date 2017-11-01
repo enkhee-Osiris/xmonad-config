@@ -9,7 +9,7 @@
 
 ```
 git clone --recursive git@github.com:enkhee-Osiris/xmonad-config.git
-rm -rf xmonad-config/.git; mv -v xmonad-config/.* ~; rm -rf xmonad-config
+rm -rf xmonad-config/.git xmonad-config/README.md; mv -v xmonad-config/.* ~; rm -rf xmonad-config
 ```
 
 ## Notes
